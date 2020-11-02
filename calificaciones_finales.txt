@@ -1,0 +1,21 @@
+Matrícula    |Nombre    |Promedio    |Promedio con Curva
+A01702222---Rosa Alegre---64---74
+A01704444---Aquilino Valdes---64---74
+A01709999---Marcel Pereira---65---75
+A01707777---Norma Valverde---67---77
+A01704040---Leandro Lin---68---78
+A01705555---Elisenda Alfaro---69---79
+A01701010---Berta Torralba---69---79
+A01702020---Paulo Segura---71---81
+A01706060---Felix Nadal---76---86
+A01708080---Julieta Serrano---78---88
+A01703030---Sarai Olivares---78---88
+A01705050---Abraham Paredes---78---88
+A01701111---Alessandro Cervantes---79---89
+A01703333---Rafaela Aguilar---81---91
+A01701001---Paz Salmeron---83---93
+A01709090---Marisa Giron---84---94
+A01707070---Florencia Pellicer---86---96
+A01708888---Angel Perdomo---88---98
+A01706666---Guadalupe Valle---88---98
+A01702002---Julia Jimeno---90---100
